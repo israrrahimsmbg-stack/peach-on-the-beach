@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.*
+# Agency gallery downloads (not ours, not used by the site)
+public/images/villa/st-*
+public/images/villa/be-*
+# Competitor research & agency provenance (agency names stay out of the repo)
+research/
+docs/sources/

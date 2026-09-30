@@ -1,0 +1,576 @@
+[
+ {
+  "caption": "The residence, pool and sea horizon.",
+  "id": "hero-aerial",
+  "src": "/images/villa/hero-aerial.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "hero"
+ },
+ {
+  "caption": "The residence from the lawn.",
+  "id": "villa-facade",
+  "src": "/images/villa/villa-facade.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "exterior"
+ },
+ {
+  "caption": "The residence, garden aspect.",
+  "id": "villa-facade-2",
+  "src": "/images/villa/villa-facade-2.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "exterior"
+ },
+ {
+  "caption": "Pool terrace and residence.",
+  "id": "villa-pool-wide",
+  "src": "/images/villa/villa-pool-wide.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "exterior"
+ },
+ {
+  "caption": "The residence from the garden.",
+  "id": "villa-elevated",
+  "src": "/images/villa/villa-elevated.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "exterior"
+ },
+ {
+  "caption": "Grounds, from the upper terrace.",
+  "id": "grounds-elevated",
+  "src": "/images/villa/grounds-elevated.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "exterior"
+ },
+ {
+  "caption": "Grounds and pool bar.",
+  "id": "grounds-elevated-2",
+  "src": "/images/villa/grounds-elevated-2.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "exterior"
+ },
+ {
+  "caption": "The residence, from above.",
+  "id": "villa-aerial",
+  "src": "/images/villa/villa-aerial.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "exterior"
+ },
+ {
+  "caption": "Lawn, pergola and pool.",
+  "id": "lawn-pergola",
+  "src": "/images/villa/lawn-pergola.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "exterior"
+ },
+ {
+  "caption": "Lawn and pool terrace.",
+  "id": "lawn-pool",
+  "src": "/images/villa/lawn-pool.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "exterior"
+ },
+ {
+  "caption": "Parasol pine canopy.",
+  "id": "pines",
+  "src": "/images/villa/pines.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "exterior"
+ },
+ {
+  "caption": "Pampelonne, early morning.",
+  "id": "beach",
+  "src": "/images/villa/beach.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "exterior"
+ },
+ {
+  "caption": "Pool and private lawn.",
+  "id": "pool-lawn",
+  "src": "/images/villa/pool-lawn.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "pool"
+ },
+ {
+  "caption": "Lawn and pool.",
+  "id": "pool-lawn-2",
+  "src": "/images/villa/pool-lawn-2.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "pool"
+ },
+ {
+  "caption": "Pool terrace, sea horizon.",
+  "id": "pool-terrace",
+  "src": "/images/villa/pool-terrace.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "pool"
+ },
+ {
+  "caption": "Pool terrace.",
+  "id": "pool-terrace-wide",
+  "src": "/images/villa/pool-terrace-wide.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "pool"
+ },
+ {
+  "caption": "Pool terrace, sea horizon.",
+  "id": "pool-panorama",
+  "src": "/images/villa/pool-panorama.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "pool"
+ },
+ {
+  "caption": "Pool bar, sea horizon.",
+  "id": "pool-bar",
+  "src": "/images/villa/pool-bar.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "pool"
+ },
+ {
+  "caption": "Pool bar.",
+  "id": "pool-bar-2",
+  "src": "/images/villa/pool-bar-2.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "pool"
+ },
+ {
+  "caption": "Heated pool, pergola lounge.",
+  "id": "pool-loungers",
+  "src": "/images/villa/pool-loungers.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "pool"
+ },
+ {
+  "caption": "Sun terrace.",
+  "id": "sun-terrace",
+  "src": "/images/villa/sun-terrace.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "pool"
+ },
+ {
+  "caption": "Poolside dining terrace.",
+  "id": "pool-dining-elevated",
+  "src": "/images/villa/pool-dining-elevated.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "pool"
+ },
+ {
+  "caption": "Master suite.",
+  "id": "master-bedroom",
+  "src": "/images/villa/master-bedroom.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "level1"
+ },
+ {
+  "caption": "Master suite, sitting area.",
+  "id": "master-bedroom-2",
+  "src": "/images/villa/master-bedroom-2.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "level1"
+ },
+ {
+  "caption": "Upper terrace, sea aspect.",
+  "id": "upper-terrace",
+  "src": "/images/villa/upper-terrace.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "level1"
+ },
+ {
+  "caption": "Living salon, sea aspect.",
+  "id": "salon",
+  "src": "/images/villa/salon.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "level1"
+ },
+ {
+  "caption": "Limestone bathroom, double vanity.",
+  "id": "bath-vanity",
+  "src": "/images/villa/bath-vanity.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "level1"
+ },
+ {
+  "caption": "Soaking bath.",
+  "id": "bath-tub",
+  "src": "/images/villa/bath-tub.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "level1"
+ },
+ {
+  "caption": "Bathroom, vanity run.",
+  "id": "bath-vanity-wide",
+  "src": "/images/villa/bath-vanity-wide.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "level1"
+ },
+ {
+  "caption": "Guest suite, opening to private lawn.",
+  "id": "guest-suite-garden",
+  "src": "/images/villa/guest-suite-garden.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "ground"
+ },
+ {
+  "caption": "Guest suite, garden level.",
+  "id": "guest-suite-1",
+  "src": "/images/villa/guest-suite-1.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "ground"
+ },
+ {
+  "caption": "Guest suite.",
+  "id": "guest-suite-2",
+  "src": "/images/villa/guest-suite-2.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "ground"
+ },
+ {
+  "caption": "Guest suite, terrace aspect.",
+  "id": "guest-suite-terrace",
+  "src": "/images/villa/guest-suite-terrace.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "ground"
+ },
+ {
+  "caption": "Gallery corridor.",
+  "id": "gallery-corridor",
+  "src": "/images/villa/gallery-corridor.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "ground"
+ },
+ {
+  "caption": "Children's dormitory.",
+  "id": "family-wing",
+  "src": "/images/villa/family-wing.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "family"
+ },
+ {
+  "caption": "Summer bar, garden aspect.",
+  "id": "summer-bar",
+  "src": "/images/villa/summer-bar.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "experience"
+ },
+ {
+  "caption": "Travertine outdoor kitchen.",
+  "id": "outdoor-kitchen",
+  "src": "/images/villa/outdoor-kitchen.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "experience"
+ },
+ {
+  "caption": "Pergola lounge.",
+  "id": "pergola-lounge",
+  "src": "/images/villa/pergola-lounge.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "experience"
+ },
+ {
+  "caption": "Pergola lounge, pool edge.",
+  "id": "pergola-lounge-2",
+  "src": "/images/villa/pergola-lounge-2.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "experience"
+ },
+ {
+  "caption": "Pergola lounge.",
+  "id": "pergola-pool-side",
+  "src": "/images/villa/pergola-pool-side.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "experience"
+ },
+ {
+  "caption": "Pergola lounge, poolside.",
+  "id": "pergola-wide",
+  "src": "/images/villa/pergola-wide.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "experience"
+ },
+ {
+  "caption": "Timber pergola.",
+  "id": "pergola-detail",
+  "src": "/images/villa/pergola-detail.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "experience"
+ },
+ {
+  "caption": "Pergola lounge.",
+  "id": "pergola-lounge-interior",
+  "src": "/images/villa/pergola-lounge-interior.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "experience"
+ },
+ {
+  "caption": "Pergola lounge.",
+  "id": "pergola-lounge-interior-2",
+  "src": "/images/villa/pergola-lounge-interior-2.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "experience"
+ },
+ {
+  "caption": "Alfresco dining terrace.",
+  "id": "dining-terrace",
+  "src": "/images/villa/dining-terrace.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "experience"
+ },
+ {
+  "caption": "Dining terrace from the lawn.",
+  "id": "dining-terrace-2",
+  "src": "/images/villa/dining-terrace-2.jpg",
+  "updatedAt": "2026-09-29T00:00:00.000Z",
+  "zone": "experience"
+ },
+ {
+  "id": "be-salon-sea",
+  "zone": "level1",
+  "src": "/images/villa/be-salon-sea.jpg",
+  "caption": "Salon, opening to the sea.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-suite-sea",
+  "zone": "level1",
+  "src": "/images/villa/be-suite-sea.jpg",
+  "caption": "Guest suite, sea aspect.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-pergola-dining",
+  "zone": "experience",
+  "src": "/images/villa/be-pergola-dining.jpg",
+  "caption": "Dining beneath the pergola.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-gallery-hall",
+  "zone": "ground",
+  "src": "/images/villa/be-gallery-hall.jpg",
+  "caption": "Gallery hall.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-dining-room",
+  "zone": "level1",
+  "src": "/images/villa/be-dining-room.jpg",
+  "caption": "Dining room.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-kitchen",
+  "zone": "level1",
+  "src": "/images/villa/be-kitchen.jpg",
+  "caption": "Kitchen.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-suite-twin",
+  "zone": "ground",
+  "src": "/images/villa/be-suite-twin.jpg",
+  "caption": "Guest suite, twin aspect.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-facade-glass",
+  "zone": "exterior",
+  "src": "/images/villa/st-facade-glass.jpg",
+  "caption": "The residence, south elevation.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-salon-piano",
+  "zone": "level1",
+  "src": "/images/villa/st-salon-piano.jpg",
+  "caption": "Salon, piano corner.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-suite-corridor",
+  "zone": "ground",
+  "src": "/images/villa/be-suite-corridor.jpg",
+  "caption": "Suite corridor.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-pool-lawn-sea",
+  "zone": "pool",
+  "src": "/images/villa/st-pool-lawn-sea.jpg",
+  "caption": "Pool lawn, sea horizon.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-bath-limestone",
+  "zone": "level1",
+  "src": "/images/villa/be-bath-limestone.jpg",
+  "caption": "Limestone bathroom.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-pool-deck",
+  "zone": "pool",
+  "src": "/images/villa/st-pool-deck.jpg",
+  "caption": "Pool deck.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-aerial-pool",
+  "zone": "exterior",
+  "src": "/images/villa/be-aerial-pool.jpg",
+  "caption": "Pool and grounds, from above.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-sitting-art",
+  "zone": "level1",
+  "src": "/images/villa/st-sitting-art.jpg",
+  "caption": "Sitting room.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-suite-twin-2",
+  "zone": "ground",
+  "src": "/images/villa/be-suite-twin-2.jpg",
+  "caption": "Guest suite.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-suite-panorama",
+  "zone": "level1",
+  "src": "/images/villa/be-suite-panorama.jpg",
+  "caption": "Suite, panoramic aspect.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-suite-garden-doors",
+  "zone": "ground",
+  "src": "/images/villa/be-suite-garden-doors.jpg",
+  "caption": "Suite, opening to the garden.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-dining-set",
+  "zone": "experience",
+  "src": "/images/villa/st-dining-set.jpg",
+  "caption": "Alfresco dining, set for twelve.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-pergola-flowers",
+  "zone": "experience",
+  "src": "/images/villa/st-pergola-flowers.jpg",
+  "caption": "Pergola dining.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-facade-lawn",
+  "zone": "exterior",
+  "src": "/images/villa/be-facade-lawn.jpg",
+  "caption": "The residence from the lawn.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "be-terrace-sea",
+  "zone": "level1",
+  "src": "/images/villa/be-terrace-sea.jpg",
+  "caption": "Upper terrace, sea aspect.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-bedroom-31",
+  "zone": "ground",
+  "src": "/images/villa/st-bedroom-31.jpg",
+  "caption": "Guest suite.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-bedroom-32",
+  "zone": "ground",
+  "src": "/images/villa/st-bedroom-32.jpg",
+  "caption": "Suite with sitting area.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-bedroom-35",
+  "zone": "ground",
+  "src": "/images/villa/st-bedroom-35.jpg",
+  "caption": "Guest suite.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-bedroom-36",
+  "zone": "ground",
+  "src": "/images/villa/st-bedroom-36.jpg",
+  "caption": "Guest suite.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-bedroom-38",
+  "zone": "ground",
+  "src": "/images/villa/st-bedroom-38.jpg",
+  "caption": "Guest suite.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-suite-art",
+  "zone": "level1",
+  "src": "/images/villa/st-suite-art.jpg",
+  "caption": "Guest suite.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-bath-sea",
+  "zone": "level1",
+  "src": "/images/villa/st-bath-sea.jpg",
+  "caption": "Bathroom, sea aspect.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-kitchen",
+  "zone": "level1",
+  "src": "/images/villa/st-kitchen.jpg",
+  "caption": "Kitchen.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-gym",
+  "zone": "wellness",
+  "src": "/images/villa/st-gym.jpg",
+  "caption": "Gym.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-bbq",
+  "zone": "experience",
+  "src": "/images/villa/st-bbq.jpg",
+  "caption": "Outdoor kitchen.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-terrace-bougainvillea",
+  "zone": "exterior",
+  "src": "/images/villa/st-terrace-bougainvillea.jpg",
+  "caption": "Terrace.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-garden-sea",
+  "zone": "exterior",
+  "src": "/images/villa/st-garden-sea.jpg",
+  "caption": "Gardens, sea horizon.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-massage",
+  "zone": "wellness",
+  "src": "/images/villa/st-massage.jpg",
+  "caption": "Massage room.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ },
+ {
+  "id": "st-hammam",
+  "zone": "wellness",
+  "src": "/images/villa/st-hammam.jpg",
+  "caption": "Hammam.",
+  "updatedAt": "2026-09-29T00:00:00.000Z"
+ }
+]
