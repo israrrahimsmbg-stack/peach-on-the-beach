@@ -103,6 +103,8 @@
       .hero-copy{margin-top:-72px;padding:0 0 36px}
       .hero-cta:not(.primary){background:transparent;backdrop-filter:none}
     }
+    .nav a{white-space:nowrap}
+    @media(min-width:901px) and (max-width:1240px){.topbar .place{display:none}}
     @media(prefers-reduced-motion:reduce){.m-cta{transition:none}}
   </style>
 </head>
@@ -111,7 +113,7 @@
     <div class="wrap">
       <a href="#top" class="place">Pampelonne · Ramatuelle · Saint-Tropez</a>
       <nav class="nav" aria-label="Primary navigation">
-        <a href="#residence" data-i18n="navResidence">Residence</a><a href="#architecture" data-i18n="navArchitecture">Architecture</a><a href="#journeys" data-i18n="navExperience">Experience</a><a href="#peninsula" data-i18n="navLocation">Location</a><a href="#arrangements" data-i18n="navArrangements">Arrangements</a>
+        <a href="#daily-tempo" data-i18n="navOutdoors">Outdoors</a><a href="#residence" data-i18n="navResidence">Residence</a><a href="#journeys" data-i18n="navExperience">Experience</a><a href="#peninsula" data-i18n="navLocation">Location</a><a href="#arrangements" data-i18n="navArrangements">Arrangements</a>
         <a class="contact" href="#inquiry" data-i18n="navInquiry">Private Inquiry</a>
       </nav>
       <select class="language" id="language" aria-label="Language"><option value="en">English</option><option value="ru">Русский</option><option value="ar">العربية</option><option value="es">Español</option><option value="pt">Português</option><option value="zh">中文</option><option value="hi">हिन्दी</option><option value="it">Italiano</option><option value="de">Deutsch</option></select>
@@ -124,7 +126,7 @@
       <div class="wrap hero-copy">
         <h1>Peach on the Beach</h1>
         <p class="hero-subline">SAINT-TROPEZ</p>
-        <div class="hero-actions"><a class="hero-cta primary" href="#residence" data-i18n="heroLink">Enter the residence</a><a class="hero-cta" href="#inquiry" data-i18n="navInquiry">Private Inquiry</a></div>
+        <div class="hero-actions"><a class="hero-cta primary" href="#daily-tempo" data-i18n="heroLink">Enter the residence</a><a class="hero-cta" href="#inquiry" data-i18n="navInquiry">Private Inquiry</a></div>
       </div>
     </section>
     <div class="wrap">
@@ -133,6 +135,39 @@
       </div>
       <div class="privacy-whisper" data-i18n="privacy">Within a gated private community. Offered directly by the owner; full particulars follow introduction.</div>
     </div>
+
+    <section class="section" id="daily-tempo">
+      <div class="wrap">
+        <div class="section-head"><div><div class="eyebrow" data-i18n="outdoorKicker">The Outdoors</div><h2 data-i18n="outdoorTitle">The house opens to the garden.</h2></div><p data-i18n="outdoorBody">Pool, pergola, broad terraces and Mediterranean planting unfold toward the sea, moving naturally from shade to open sky.</p></div>
+        <div class="outdoor-grid">
+          <button class="photo" data-full="assets/pool-garden-aerial.jpg" data-caption-key="groundsAbove" data-caption="The grounds from above"><picture><source type="image/webp" srcset="assets/pool-garden-aerial.webp"><img src="assets/pool-garden-aerial.jpg" alt="The villa pool and private grounds seen from above" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">The grounds from above</span></button>
+          <div class="outdoor-stack">
+            <button class="photo" data-full="assets/pergola-pool-wide.jpg" data-caption-key="poolPavilionSea" data-caption="The pool pergola"><picture><source type="image/webp" srcset="assets/pergola-pool-wide.webp"><img src="assets/pergola-pool-wide.jpg" alt="The pool pergola" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">The pool pergola</span></button>
+            <button class="photo" data-full="assets/pool-cactus-garden.jpg" data-caption-key="poolCactus" data-caption="The pool and cactus garden"><picture><source type="image/webp" srcset="assets/pool-cactus-garden.webp"><img src="assets/pool-cactus-garden.jpg" alt="The pool framed by the cactus garden" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">The pool and cactus garden</span></button>
+          </div>
+        </div>
+        <button class="photo gallery-wide" data-full="assets/residence-gardens-sea-aerial.jpg" data-caption-key="gardensSea" data-caption="Gardens running down to the sea"><picture><source type="image/webp" srcset="assets/residence-gardens-sea-aerial.webp"><img src="assets/residence-gardens-sea-aerial.jpg" alt="The villa roof, gardens, pool and Mediterranean beyond" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">Gardens running down to the sea</span></button>
+      </div>
+    </section>
+
+    <section class="section alt" id="celebrations">
+      <div class="wrap">
+        <div class="section-head"><div><div class="eyebrow" data-i18n="tableKicker">Table & Bar</div><h2 data-i18n="tableTitle">Four tables, follow the sun.</h2></div><p data-i18n="tableBody">Four distinct dining areas let each meal find its own light, from the garden and pool to the pergola and the sea-view terrace.</p></div>
+        <div class="dining-grid">
+          <button class="photo" data-full="assets/garden-dining-terrace.jpg" data-caption-key="gardenDinner" data-caption="Dinner on the garden terrace"><picture><source type="image/webp" srcset="assets/garden-dining-terrace.webp"><img src="assets/garden-dining-terrace.jpg" alt="The garden terrace arranged for dinner" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">Dinner on the garden terrace</span></button>
+          <button class="photo" data-full="assets/pool-terrace-dining.jpg" data-caption-key="poolLunch" data-caption="Lunch by the pool"><picture><source type="image/webp" srcset="assets/pool-terrace-dining.webp"><img src="assets/pool-terrace-dining.jpg" alt="A dining table set beside the pool" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">Lunch by the pool</span></button>
+          <button class="photo" data-full="assets/pergola-dining-table.jpg" data-caption-key="pergolaDining" data-caption="Dining beneath the pergola"><picture><source type="image/webp" srcset="assets/pergola-dining-table.webp"><img src="assets/pergola-dining-table.jpg" alt="Dining beneath the pergola" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">Dining beneath the pergola</span></button>
+          <button class="photo" data-full="assets/owner-pergola-dining.jpg" data-caption-key="pergolaDining" data-caption="Dining beneath the pergola"><img src="assets/owner-pergola-dining.jpg" alt="Dining beneath the pergola" loading="lazy" decoding="async"><span class="caption" aria-hidden="true">Dining beneath the pergola</span></button>
+        </div>
+        <div class="table-beat">
+          <div class="table-beat-head"><div><div class="eyebrow" data-i18n="barsKicker">Two bars</div><h3 data-i18n="barsTitle">Poolside or facing the sea.</h3></div><p data-i18n="barsBody">One bar sits beside the pool and outdoor kitchen; the other turns toward the bay for drinks in the last light.</p></div>
+          <div class="bar-grid single">
+            <button class="photo" data-full="assets/pool-bar-white-marble.jpg" data-caption-key="poolBarKitchen" data-caption="The pool bar, first floor"><picture><source type="image/webp" srcset="assets/pool-bar-white-marble.webp"><img src="assets/pool-bar-white-marble.jpg" alt="The white marble pool bar with barbecue grill on the first floor" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">The pool bar, first floor</span></button>
+          </div>
+        </div>
+        <div class="bbq-feature"><button class="photo" data-full="assets/bbq-green-marble-bar.jpg" data-caption-key="greenMarbleBar" data-caption="The green marble bar, second floor"><picture><source type="image/webp" srcset="assets/bbq-green-marble-bar.webp"><img src="assets/bbq-green-marble-bar.jpg" alt="The green marble bar on the second floor" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">The green marble bar, second floor</span></button><div class="bbq-note"><div><div class="eyebrow" data-i18n="bbqKicker">Barbecue</div><h3 data-i18n="bbqTitle">The green-marble gathering place.</h3></div><p data-i18n="bbqBody">A beautiful green-marbled barbecue area anchors open-air cooking beside the terraces, designed for generous lunches that continue into the evening.</p></div></div>
+      </div>
+    </section>
 
     <section class="section" id="residence">
       <div class="wrap">
@@ -169,39 +204,6 @@
             <button class="photo" data-full="assets/bath-vanity-wide.jpg" data-caption="The bathroom vanity"><img src="assets/bath-vanity-wide.jpg" alt="The bathroom vanity" loading="lazy" decoding="async"><span class="caption" aria-hidden="true" data-i18n="vanityCaption">The bathroom vanity</span></button>
           </div>
         </div>
-      </div>
-    </section>
-
-    <section class="section" id="daily-tempo">
-      <div class="wrap">
-        <div class="section-head"><div><div class="eyebrow" data-i18n="outdoorKicker">The Outdoors</div><h2 data-i18n="outdoorTitle">The house opens to the garden.</h2></div><p data-i18n="outdoorBody">Pool, pergola, broad terraces and Mediterranean planting unfold toward the sea, moving naturally from shade to open sky.</p></div>
-        <div class="outdoor-grid">
-          <button class="photo" data-full="assets/pool-garden-aerial.jpg" data-caption-key="groundsAbove" data-caption="The grounds from above"><picture><source type="image/webp" srcset="assets/pool-garden-aerial.webp"><img src="assets/pool-garden-aerial.jpg" alt="The villa pool and private grounds seen from above" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">The grounds from above</span></button>
-          <div class="outdoor-stack">
-            <button class="photo" data-full="assets/pergola-pool-wide.jpg" data-caption-key="poolPavilionSea" data-caption="The pool pergola"><picture><source type="image/webp" srcset="assets/pergola-pool-wide.webp"><img src="assets/pergola-pool-wide.jpg" alt="The pool pergola" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">The pool pergola</span></button>
-            <button class="photo" data-full="assets/pool-cactus-garden.jpg" data-caption-key="poolCactus" data-caption="The pool and cactus garden"><picture><source type="image/webp" srcset="assets/pool-cactus-garden.webp"><img src="assets/pool-cactus-garden.jpg" alt="The pool framed by the cactus garden" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">The pool and cactus garden</span></button>
-          </div>
-        </div>
-        <button class="photo gallery-wide" data-full="assets/residence-gardens-sea-aerial.jpg" data-caption-key="gardensSea" data-caption="Gardens running down to the sea"><picture><source type="image/webp" srcset="assets/residence-gardens-sea-aerial.webp"><img src="assets/residence-gardens-sea-aerial.jpg" alt="The villa roof, gardens, pool and Mediterranean beyond" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">Gardens running down to the sea</span></button>
-      </div>
-    </section>
-
-    <section class="section alt" id="celebrations">
-      <div class="wrap">
-        <div class="section-head"><div><div class="eyebrow" data-i18n="tableKicker">Table & Bar</div><h2 data-i18n="tableTitle">Four tables, follow the sun.</h2></div><p data-i18n="tableBody">Four distinct dining areas let each meal find its own light, from the garden and pool to the pergola and the sea-view terrace.</p></div>
-        <div class="dining-grid">
-          <button class="photo" data-full="assets/garden-dining-terrace.jpg" data-caption-key="gardenDinner" data-caption="Dinner on the garden terrace"><picture><source type="image/webp" srcset="assets/garden-dining-terrace.webp"><img src="assets/garden-dining-terrace.jpg" alt="The garden terrace arranged for dinner" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">Dinner on the garden terrace</span></button>
-          <button class="photo" data-full="assets/pool-terrace-dining.jpg" data-caption-key="poolLunch" data-caption="Lunch by the pool"><picture><source type="image/webp" srcset="assets/pool-terrace-dining.webp"><img src="assets/pool-terrace-dining.jpg" alt="A dining table set beside the pool" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">Lunch by the pool</span></button>
-          <button class="photo" data-full="assets/pergola-dining-table.jpg" data-caption-key="pergolaDining" data-caption="Dining beneath the pergola"><picture><source type="image/webp" srcset="assets/pergola-dining-table.webp"><img src="assets/pergola-dining-table.jpg" alt="Dining beneath the pergola" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">Dining beneath the pergola</span></button>
-          <button class="photo" data-full="assets/owner-pergola-dining.jpg" data-caption-key="pergolaDining" data-caption="Dining beneath the pergola"><img src="assets/owner-pergola-dining.jpg" alt="Dining beneath the pergola" loading="lazy" decoding="async"><span class="caption" aria-hidden="true">Dining beneath the pergola</span></button>
-        </div>
-        <div class="table-beat">
-          <div class="table-beat-head"><div><div class="eyebrow" data-i18n="barsKicker">Two bars</div><h3 data-i18n="barsTitle">Poolside or facing the sea.</h3></div><p data-i18n="barsBody">One bar sits beside the pool and outdoor kitchen; the other turns toward the bay for drinks in the last light.</p></div>
-          <div class="bar-grid single">
-            <button class="photo" data-full="assets/pool-bar-white-marble.jpg" data-caption-key="poolBarKitchen" data-caption="The pool bar, first floor"><picture><source type="image/webp" srcset="assets/pool-bar-white-marble.webp"><img src="assets/pool-bar-white-marble.jpg" alt="The white marble pool bar with barbecue grill on the first floor" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">The pool bar, first floor</span></button>
-          </div>
-        </div>
-        <div class="bbq-feature"><button class="photo" data-full="assets/bbq-green-marble-bar.jpg" data-caption-key="greenMarbleBar" data-caption="The green marble bar, second floor"><picture><source type="image/webp" srcset="assets/bbq-green-marble-bar.webp"><img src="assets/bbq-green-marble-bar.jpg" alt="The green marble bar on the second floor" loading="lazy" decoding="async"></picture><span class="caption" aria-hidden="true">The green marble bar, second floor</span></button><div class="bbq-note"><div><div class="eyebrow" data-i18n="bbqKicker">Barbecue</div><h3 data-i18n="bbqTitle">The green-marble gathering place.</h3></div><p data-i18n="bbqBody">A beautiful green-marbled barbecue area anchors open-air cooking beside the terraces, designed for generous lunches that continue into the evening.</p></div></div>
       </div>
     </section>
 
@@ -290,6 +292,7 @@
     var CONTACT={whatsapp:'',email:'book@peachonthebeach.fr'};
     function waLink(text){var n=String(CONTACT.whatsapp||'').replace(/\D/g,'');return 'https://wa.me/'+n+'?text='+encodeURIComponent(text)}
     var I18N={
+      navOutdoors:["Outdoors","Территория","المساحات الخارجية","Exteriores","Exteriores","户外","बाहरी स्थान","Esterni","Außenbereich"],
       navResidence:["Residence","Резиденция","الإقامة","Residencia","Residência","宅邸","निवास","Residenza","Residenz"],
       navArchitecture:["Architecture","Архитектура","العمارة","Arquitectura","Arquitetura","建筑","वास्तुकला","Architettura","Architektur"],
       navExperience:["Experience","Впечатления","التجارب","Experiencias","Experiências","体验","अनुभव","Esperienze","Erlebnisse"],
