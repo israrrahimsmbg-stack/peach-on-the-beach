@@ -103,6 +103,16 @@
       .hero-copy{margin-top:-72px;padding:0 0 36px}
       .hero-cta:not(.primary){background:transparent;backdrop-filter:none}
     }
+    /* floor viewer: sized to the window + hover zoom (2026-10) */
+    .level-panel{align-items:start}
+    .level-img{min-height:0;width:100%;height:clamp(420px,44vw,600px);overflow:hidden}
+    .thumbs{flex-wrap:nowrap}
+    .thumbs button{flex:1 1 0;min-width:0;max-width:none;height:auto;aspect-ratio:4/3;overflow:hidden}
+    @media(min-width:901px) and (max-width:1100px){.levels{grid-template-columns:1fr}.level-tabs{border-right:0;border-bottom:1px solid var(--line);display:grid;grid-template-columns:repeat(3,1fr)}.level-tab{border-bottom:0;border-right:1px solid var(--line);padding:18px 14px}.level-tab:last-child{border-right:0}}
+    @media(max-width:900px){.level-img{height:auto;aspect-ratio:16/10;max-height:56vh}}
+    .level-img img,.thumbs img{transition:transform .8s cubic-bezier(.2,.7,.2,1)}
+    @media(hover:hover){.photo:hover img{transform:scale(1.05)}.level-img:hover img{transform:scale(1.05)}.thumbs button:hover{opacity:1}.thumbs button:hover img{transform:scale(1.1)}}
+    @media(prefers-reduced-motion:reduce){.level-img img,.thumbs img{transition:none}}
     @media(prefers-reduced-motion:reduce){.m-cta{transition:none}}
   </style>
 </head>
